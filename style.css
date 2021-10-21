@@ -1,0 +1,118 @@
+body{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.image {
+    background-image: url(jpg/hero.png);
+    width: 1921px;
+    height: 921px;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.header-menu {
+    background-color: #fff;
+    text-align: center;
+    width: 1121px;
+    height: 100px;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px ;
+}
+.header-menu ul {    
+   text-align: center;
+   position: relative;
+   bottom: 18px;
+   right: 20px;
+   top: ;
+}
+.header-menu ul li {
+   display: inline-block;
+}
+.header-menu ul li a {
+   display: inline-block;
+   padding: 15px 20px;
+   color: #000;
+   font-size: 19px;
+   font-weight: 600;   
+   text-decoration: none;
+}
+.button{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(73, 126, 223);
+    padding: 17px 30px;
+    border-radius: 8px;
+    color: #fff;
+    position: relative;
+    left: 465px;
+    bottom: 75px;
+}
+.logo{
+    position: relative;
+    right: 450px;
+    top: 37px;
+}
+h1{
+    font-size: 70px;
+    color: #fff;
+    line-height: 40px;
+}
+p{
+    font-size: 20px;
+    color: #fff;
+    text-align: left;
+    letter-spacing: 1px;
+    
+}
+.text{
+    padding: 0;
+    margin: 0;
+    border: 1px slid red;
+    width: 740px;
+    height: 700px;
+    position: relative;
+    top: 150px;
+}
+.item1{
+    position: relative;
+    right: 58px;
+}
+.item2{
+    position: relative;
+    right: 53px;
+}
+.lorem1{
+    position: relative;
+    right: 0;
+}
+.button1{
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color:#3377ff;
+    padding: 19px 45px;
+    color: #fff;
+    border-radius: 5px;
+    float: left;
+    margin: 50px 30px 0px 0px;
+}
+.button2{
+    display: inline-block;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    padding: 19px 45px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    float: left;
+    margin: 50px 30px 0px 0px;
+}
+.button2:hover{
+    background-color: #3377ff;
+    transition: 1s;
+    border: none;
+}
+i{
+    margin: 0px 0px 0px 0px;
+}
